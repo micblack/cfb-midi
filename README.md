@@ -1,4 +1,4 @@
-# Coding From Beach MeetUp: MIDI instrument workshop source
+# Coding From Beach MeetUp: MIDI instrument workshop
 
 This repo contains the files used for the Coding From Beach workshop held at the Peregian Digital Hub on Thursday 4th October.
 
@@ -12,7 +12,7 @@ In this workshop we combined a Sharp GP2Y0A41SK0F and a Teensy 3.2 to create a s
 
 # Acknowledgements
 
-@micblack Mic Black for delivering the workshop
-@PaulStoffregen Paul Stoffregen for the brilliant Teensy
-Chris Boden for hosting the meetup at Peregian Digital Hub
-Ben Duncan and Ric Pruss for their ongoing commitment to the Coding From Beach meetup group
+- @micblack Mic Black for delivering the workshop
+- @PaulStoffregen Paul Stoffregen for the brilliant Teensy
+- Chris Boden for hosting the meetup at Peregian Digital Hub
+- Ben Duncan and Ric Pruss for their ongoing commitment to the Coding From Beach meetup group
